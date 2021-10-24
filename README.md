@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Reinforcement Learning
 - 💬 Ask me about Machine Learning, Deep Learning, Time series, GAN, CNN
 - 📫 How to reach me: https://www.instagram.com/xalid_nazzar/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Data
+- ⚡ Fun fact: 
 -->
